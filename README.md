@@ -1,2 +1,9 @@
 # Boilerplate-MVVM-Koin-
-MVVM, Koin 베이스 프로젝트의 보일러플레이트
+보일러플레이트 프로젝트입니다.
+
+- MVVM - Repository
+- Koin
+- Core 모듈 - Base classes, Lifecycler Logger
+- DataBinding
+- LiveData
+- LeakCanary
