@@ -1,4 +1,4 @@
-# Boilerplate-MVVM-Koin-
+# Boilerplate-MVVM-Repository-Koin
 보일러플레이트 프로젝트입니다.
 
 - MVVM - Repository
